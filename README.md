@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![](https://github.com/hai-vr/hai-vr/blob/master/test-bg3.png)
 <!--
 **nemosc/nemosc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
