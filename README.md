@@ -1,4 +1,4 @@
-![](https://github.com/nemosc/nemosc/blob/main/流星辉巧群.jpg)
+
 <!--
 **nemosc/nemosc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
